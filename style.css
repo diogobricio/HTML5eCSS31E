@@ -1,0 +1,11 @@
+body {
+    background: lime;
+}
+
+p{
+    text-align: center;
+    
+}
+strong {
+    color: rgb(17, 0, 255);
+}
